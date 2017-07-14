@@ -1,0 +1,3 @@
+com\amazonaws\lambda\demo\AccountCreation.class
+com\amazonaws\lambda\demo\AccountCreationDao.class
+com\amazonaws\lambda\demo\LambdaFunctionHandler.class
